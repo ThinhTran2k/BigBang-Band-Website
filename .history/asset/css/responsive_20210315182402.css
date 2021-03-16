@@ -1,0 +1,18 @@
+/* Mobile */
+@media (max-width: 740px) {
+    .nav > li {
+        display: block;
+    }
+    .header .header__search {
+        display: none;
+    }
+    .nav {
+        display: block;
+    }
+    .header .mobi-menu-responsive {
+        display: block;
+    }
+    .nav > li:first-child {
+        display: inline-block;
+    }
+}
