@@ -153,7 +153,7 @@ html {
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
-    text-shadow: 2 2 2px #000;
+    text-shadow: 0 0 1px #000;
 }
 .text-heading {
     font-weight: 500;

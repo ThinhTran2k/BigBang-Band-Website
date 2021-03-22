@@ -1,5 +1,5 @@
 /* Mobile */
-@media (max-width: 46.1875em) {
+@media (max-width: 739px) {
     .header .header__search {
         display: none;
     }
@@ -50,7 +50,7 @@
 }
 
 /* Table */
-@media (max-width: 63.9375em) {
+@media (max-width: 6.393) {
     .btn {
         padding: 15px 16px;
     }
@@ -62,5 +62,8 @@
     }
     .nav .subnav a {
         padding: 5px 40px;
+    }
+    .form-btn {
+
     }
 }
